@@ -17,3 +17,6 @@ ReadOnly Set
 
 Mutable Set
 <img width="1512" height="982" alt="Mutable Set" src="https://github.com/user-attachments/assets/1964bdad-5cad-4943-9384-69dd61fb8a49" />
+
+ReadOnly Map
+<img width="1512" height="982" alt="Read only Map" src="https://github.com/user-attachments/assets/13080cb9-e2db-481c-a435-d1399a806ebe" />
