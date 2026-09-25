@@ -1,3 +1,3 @@
 # QuestBasicKotlin_0022
 
-![Kotlin]('/Users/user/Documents/KULIAH/semester 5/PAM/SS Tugas 1/Kotlin.png')
+<img width="1512" height="982" alt="Kotlin" src="https://github.com/user-attachments/assets/32ca37c0-947e-4e0b-9685-fe85142a0886" />
