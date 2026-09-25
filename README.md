@@ -6,6 +6,8 @@ Kotlin
 String templates
 <img width="1512" height="982" alt="String templates" src="https://github.com/user-attachments/assets/f1f3c4e8-d249-4625-980c-730d6fad4384" />
 
-ReadOnlyList
+ReadOnly List
 <img width="1512" height="982" alt="Read only List" src="https://github.com/user-attachments/assets/4ec1ac5e-22ec-45ed-bb21-ec992dff252b" />
 
+Mutable List
+<img width="1512" height="982" alt="Mutable List" src="https://github.com/user-attachments/assets/b747aa0a-3d40-4cf3-a85d-4fc89efa0492" />
